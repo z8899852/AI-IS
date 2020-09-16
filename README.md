@@ -97,7 +97,7 @@ Aurélien Géron 著 賴屹民 譯
 </table>
 
 ---
-:::info
+
 <h3> 期中</h3>
 
 
@@ -117,7 +117,6 @@ Aurélien Géron 著 賴屹民 譯
     <td><a href="">0916-python-1</a></td>
 </tr>
 </table>
-:::
 
 ---
 ## 十一月
@@ -180,7 +179,7 @@ Aurélien Géron 著 賴屹民 譯
 </table>
 
 ---
-:::success
+
 <h3> 期末</h3>
 
 
@@ -200,4 +199,4 @@ Aurélien Géron 著 賴屹民 譯
     <td><a href="">0916-python-1</a></td>
 </tr>
 </table>
-:::
+
