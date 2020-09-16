@@ -64,12 +64,15 @@ Aurélien Géron 著 賴屹民 譯
 <td>日期-項目</td>
 <td>上課教材</td>
 <td>上課實作</td>
+<td>上課實作</td>
+
 </tr>
 
 <tr>
     <td>0916-python</td>
     <td><a href="https://zeroday.hitcon.org/">hitcon zeroday</a></td>
-        <td><a href="">0305-Python-Unit1_5</a></td>
+    <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
+    <td><a href="">0916-python-1</a></td>
 </tr>
 
 
