@@ -18,6 +18,7 @@ tags: 資工碩士課程
         <td><a href="https://github.com/MyDearGreatTeacher">MyDearGreatTeacher</a></td>
         <td><a href="https://github.com/MyDearGreatTeacher/uTaipei2019">uTaipei2019</a></td>
         <td><a href="https://github.com/MyDearGreatTeacher/AI_and_security">上課教材</a></td>
+        <td><a href="https://www.tensorflow.org/tutorials/generative/dcgan">tensorflow資料</a></td>
     </tr>
 </table>
 
@@ -53,13 +54,12 @@ Aurélien Géron 著 賴屹民 譯
 	網站安全
 	系統安全
 	IOT security
-	區塊練安全(blockchain security)
+	區塊鍊安全(blockchain security)
 
 ---
 ## 九月
 
 <table>
-
 <tr>
 <td>日期-項目</td>
 <td>上課教材</td>
@@ -74,7 +74,130 @@ Aurélien Géron 著 賴屹民 譯
     <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
     <td><a href="">0916-python-1</a></td>
 </tr>
-
-
-
 </table>
+
+---
+## 十月
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td>0916-python</td>
+    <td><a href="https://zeroday.hitcon.org/">hitcon zeroday</a></td>
+    <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
+    <td><a href="">0916-python-1</a></td>
+</tr>
+</table>
+
+---
+:::info
+<h3> 期中</h3>
+
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td>0916-python</td>
+    <td><a href="https://zeroday.hitcon.org/">hitcon zeroday</a></td>
+    <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
+    <td><a href="">0916-python-1</a></td>
+</tr>
+</table>
+:::
+
+---
+## 十一月
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td>0916-python</td>
+    <td><a href="https://zeroday.hitcon.org/">hitcon zeroday</a></td>
+    <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
+    <td><a href="">0916-python-1</a></td>
+</tr>
+</table>
+
+---
+## 十二月
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td>0916-python</td>
+    <td><a href="https://zeroday.hitcon.org/">hitcon zeroday</a></td>
+    <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
+    <td><a href="">0916-python-1</a></td>
+</tr>
+</table>
+
+---
+## 一月
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td>0916-python</td>
+    <td><a href="https://zeroday.hitcon.org/">hitcon zeroday</a></td>
+    <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
+    <td><a href="">0916-python-1</a></td>
+</tr>
+</table>
+
+---
+:::success
+<h3> 期末</h3>
+
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td>0916-python</td>
+    <td><a href="https://zeroday.hitcon.org/">hitcon zeroday</a></td>
+    <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
+    <td><a href="">0916-python-1</a></td>
+</tr>
+</table>
+:::
