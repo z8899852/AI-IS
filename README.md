@@ -22,6 +22,7 @@ tags: 資工碩士課程
 </table>
 
 課本：
+---
 <table>
     <tr>
         <td>tf.keras 技術者們必讀！深度學習攻略手冊
@@ -43,6 +44,16 @@ Aurélien Géron 著 賴屹民 譯
 2020-04-08</td>
     </tr>
 </table>
+
+上課主題：
+---
+	摺積神經網路CNN
+	RNN 自然語言
+	GAN 對抗式生成網路
+	網站安全
+	系統安全
+	IOT security
+	區塊練安全(blockchain security)
 
 ---
 ## 九月
