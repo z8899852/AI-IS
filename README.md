@@ -18,7 +18,7 @@ tags: 資工碩士課程
         <td><a href="https://github.com/MyDearGreatTeacher">MyDearGreatTeacher</a></td>
         <td><a href="https://github.com/MyDearGreatTeacher/uTaipei2019">uTaipei2019</a></td>
         <td><a href="https://github.com/MyDearGreatTeacher/AI_and_security">上課教材</a></td>
-        <td><a href="https://www.tensorflow.org/tutorials/generative/dcgan">tensorflow資料</a></td>
+        <td><a href="https://www.tensorflow.org/tutorials/?hl=zh-tw">tensorflow報告</a></td>
     </tr>
 </table>
 
