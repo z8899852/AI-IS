@@ -1,4 +1,4 @@
----
+------
 tags: 資工碩士課程
 ---
 # 一上-人工智慧&資安-曾龍
@@ -43,6 +43,135 @@ https://www.tenlong.com.tw/products/9789863125501?list_name=srh</td>
 Aurélien Géron 著 賴屹民 譯
 歐萊禮
 2020-04-08</td>
+    </tr>
+</table>
+
+上課主題：
+---
+	摺積神經網路CNN
+	RNN 自然語言
+	GAN 對抗式生成網路
+	網站安全
+	系統安全
+	IOT security
+	區塊鍊安全(blockchain security)
+
+---
+## 九月
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+
+</tr>
+
+<tr>
+    <td>0916-python</td>
+    <td><a href="https://zeroday.hitcon.org/">hitcon zeroday</a></td>
+    <td><a href="https://github.com/z8899852/AI-IS/blob/master/0916_tensorflow.ipynb">0916-tensorflow</a></td>
+    <td><a href="">0916-python-1</a></td>
+    <td><a href="https://github.com/z8899852/DL/blob/master/0305_Python_Unit1_5.ipynb"
+>0916-Python-Unit1_5</a></td>
+</tr>
+<tr>
+    <td>0921</td>
+    <td><a href="https://github.com/MyDearGreatTeacher/AI_and_security_2020/blob/master/20200921.md">上課內容</a></td>
+</tr>
+<tr>
+    <td>0928</td>
+    <td><a href="https://github.com/MyDearGreatTeacher/AI_and_security_2020/blob/master/20200928_tensorflow_js.md">上課內容</a></td>
+</tr>
+</table>
+
+---
+:::success
+## 期中報告
+<table>
+<tr>
+    <td>期中</td>
+    <td><a href="https://github.com/z8899852/AI-IS/tree/master/exam-1">GPT-2金庸小說</a></td>
+    <td>Keras：圖片分類</td>
+<td><a href="https://github.com/z8899852/AI-IS/blob/master/exam-1/1_Keras_image.pptx">簡報</a></td>
+</tr>
+</table>
+:::
+
+---
+## 十一月
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+</tr>
+</table>
+
+---
+## 十二月
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+</tr>
+</table>
+
+---
+## 一月
+
+<table>
+<tr>
+<td>日期-項目</td>
+<td>上課教材</td>
+<td>上課實作</td>
+<td>上課實作</td>
+
+</tr>
+
+<tr>
+    <td></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+</tr>
+</table>
+
+:::info
+## 期末報告
+<table>
+<tr>
+    <td>期末平時</td>
+    <td><a href="">網站安全</a></td>
+    <td>期末報告</td>
+    <td><a href="">滲透測試</a></td>
+</tr>
+</table>
+:::
     </tr>
 </table>
 
